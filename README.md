@@ -15,7 +15,7 @@
  <h4>-> Multiple Linear Regression<br>
  -> Implementation<br>
  -> Feature Selection in Multiple Linear Regression<br>
- -> Need of Data Preprocessing?<br>
+ -> Need of Data Preprocessing<br>
 
   
 Track my progress [here](https://ruchikamodgil.github.io/100-Days-of-ML/)
