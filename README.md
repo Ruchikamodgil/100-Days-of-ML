@@ -11,6 +11,11 @@
  -> Why Polynomail Regression?<br>
  -> Underfitting and Overfitting <br>
  -> Implementation of Polynomail Regression
+<h2>Day3 Learnings:
+ <h4>-> Multiple Linear Regression<br>
+ -> Implementation<br>
+ -> Feature Selection in Multiple Linear Regression<br>
+ -> Need of Data Preprocessing?<br>
 
   
 Track my progress [here](https://ruchikamodgil.github.io/100-Days-of-ML/)
