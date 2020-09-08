@@ -17,18 +17,18 @@
  -> Feature Selection in Multiple Linear Regression<br>
  -> Need of Data Preprocessing<br>
 <h2>Day4 Learnings:
- <h4>->Handling Missing Values<br>
-     |<br>
-      --->Drop Missing Values<br>
-     |<br>
-      --->Filling Missing Values<br>
-     |<br>
-      --->Prediction of Missing Values<br>
-  <h4>->Handling Categorical Values<br>
-      |<br>
-       --->One-Hot Encoding<br>
-      |<br>
-       --->Label Encoding<br>
+ <h4>->Handling Missing Values
+       |<br>
+        --->Drop Missing Values<br>
+       |<br>
+        --->Filling Missing Values<br>
+       |<br>
+        --->Prediction of Missing Values<br>
+ <h4>->Handling Categorical Values
+        |<br>
+         --->One-Hot Encoding<br>
+        |<br>
+         --->Label Encoding<br>
 
   
 Track my progress [here](https://ruchikamodgil.github.io/100-Days-of-ML/)
