@@ -29,6 +29,15 @@
          --->One-Hot Encoding<br>
         |<br>
          --->Label Encoding<br>
+ <h2>Day5 Learning:
+  <h4>->Dealing with outliers<br>
+       |<br>
+        --->Detection Methods(Box Plot,Scatter Plot,IQR Score)
+  <h4>->Analysis of feature Importance
+  <h4>->Feature Scaling<br>
+       |<br>
+        --->Z-score Normalisation,Min-Max Normalisation,Log Transformation<br>
+   
 
   
 Track my progress [here](https://ruchikamodgil.github.io/100-Days-of-ML/)
