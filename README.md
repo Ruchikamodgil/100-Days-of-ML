@@ -33,7 +33,7 @@
   <h4>->Dealing with outliers<br>
        |<br>
         --->Detection Methods(Box Plot,Scatter Plot,IQR Score)
-  <h4>->Analysis of feature Importance
+  <h4>->Analysis for feature Importance
   <h4>->Feature Scaling<br>
        |<br>
         --->Z-score Normalisation,Min-Max Normalisation,Log Transformation<br>
