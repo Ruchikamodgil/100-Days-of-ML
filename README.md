@@ -37,6 +37,12 @@
   <h4>->Feature Scaling<br>
        |<br>
         --->Z-score Normalisation,Min-Max Normalisation,Log Transformation<br>
+ <h2>Day6 Learnings:
+  <h4>Started Statistics <br>
+  <h4>->Average,Variance,Std. Deviation,Prob. Dist. Fns<br>
+  <h4>->Binomial Distribution<br>
+  <h4>->Poisson Process<br>
+  
    
 
   
