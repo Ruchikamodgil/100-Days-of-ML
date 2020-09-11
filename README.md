@@ -42,8 +42,10 @@
   ->Average,Variance,Std. Deviation,Prob. Dist. Fns<br>
   ->Binomial Distribution<br>
   ->Poisson Process<br>
-  
-   
+ <h2>Day7 Learnings:
+  <h4>->Poisson Process<br>
+    ->Law of Large numbers<br>
+    ->Normal Distribution<br>
 
   
 Track my progress [here](https://ruchikamodgil.github.io/100-Days-of-ML/)
