@@ -1,4 +1,4 @@
-#100-Days-of-ML<br>
+# 100-Days-of-ML
 #100daysofMLchallenge
 <h2> Day1 Learnings:
 <h4>-> What is Regression?<br>
