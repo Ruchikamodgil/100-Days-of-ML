@@ -46,3 +46,7 @@
   <h4>->Poisson Process<br>
     ->Law of Large numbers<br>
     ->Normal Distribution<br>
+ <h2>Day8 Learnings:
+  <h4>->Central Limit Theorem<br>
+    ->Bernoulli Distribution<br>
+    ->Hypothesis Testing<br>
