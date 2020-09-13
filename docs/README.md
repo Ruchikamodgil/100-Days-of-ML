@@ -50,3 +50,5 @@
   <h4>->Central Limit Theorem<br>
     ->Bernoulli Distribution<br>
     ->Hypothesis Testing<br>
+ <h2>Day9 Learnings:
+  <h4>->Hypothesis Testing(P-value,One and Two tailed Test,Z and T-statistic,Type I and Type II errors) 
