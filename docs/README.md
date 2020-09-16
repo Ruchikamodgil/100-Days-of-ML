@@ -7,10 +7,10 @@
 -> Implementation from Scratch<br>
 -> Gradient Descent<br>
 <h2> Day2 Learnings:
- <h4>-> Polynomail Regression<br>
- -> Why Polynomail Regression?<br>
+ <h4>-> Polynomial Regression<br>
+ -> Why Polynomial Regression?<br>
  -> Underfitting and Overfitting <br>
- -> Implementation of Polynomail Regression
+ -> Implementation of Polynomial Regression
 <h2>Day3 Learnings:
  <h4>-> Multiple Linear Regression<br>
  -> Implementation<br>
@@ -46,3 +46,15 @@
   <h4>->Poisson Process<br>
     ->Law of Large numbers<br>
     ->Normal Distribution<br>
+ <h2>Day8 Learnings:
+  <h4>->Central Limit Theorem<br>
+    ->Bernoulli Distribution<br>
+    ->Hypothesis Testing<br>
+ <h2>Day9 Learnings:
+  <h4>->Hypothesis Testing(P-value,One and Two tailed Test,Z and T-statistic,Type I and Type II errors) 
+   <h2>Day10 Learnings:
+  <h4>->Covariance and correlation<br>
+    ->chi-square distribution <br>
+    ->ANOVA/F-statistics<br>
+   <h2>Day11 LEarnings:
+    <h4>->Data Visualization on Iris Dataset
