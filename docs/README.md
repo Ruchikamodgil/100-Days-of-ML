@@ -56,5 +56,8 @@
   <h4>->Covariance and correlation<br>
     ->chi-square distribution <br>
     ->ANOVA/F-statistics<br>
-   <h2>Day11 LEarnings:
+   <h2>Day11 Learnings:
     <h4>->Data Visualization on Iris Dataset
+   <h2>Day12 Learnings:
+    <h4>->Logistic Regression<br>
+     ->Python Implementation
