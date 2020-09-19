@@ -62,5 +62,5 @@
     <h4>->Logistic Regression<br>
      ->Implementation of Logistic Regression<br>
      ->Cross Entropy Loss<br>
-     ->Optimisation using Gradient Descent<br>
+     ->Optimization using Gradient Descent<br>
      ->Evaluation of Logistic Regression Result
