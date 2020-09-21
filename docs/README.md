@@ -64,3 +64,5 @@
      ->Cross Entropy Loss<br>
      ->Optimization using Gradient Descent<br>
      ->Evaluation of Logistic Regression Result
+     <h2>Day13 Learnings:
+      <h4>->Ridge and Lasso Regression
