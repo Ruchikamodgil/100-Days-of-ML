@@ -60,7 +60,11 @@
     <h4>->Data Visualization on Iris Dataset
    <h2>Day12 Learnings:
     <h4>->Logistic Regression<br>
-     ->Python Implementation<br>
+     ->Implementation of Logistic Regression<br>
      ->Cross Entropy Loss<br>
-     ->Optimisation using Gradient Descent<br>
+     ->Optimization using Gradient Descent<br>
      ->Evaluation of Logistic Regression Result
+     <h2>Day13 Learnings:
+      <h4>->Ridge and Lasso Regression
+      <h2>Day14 Learnings:
+       <h4>->Ridge and Lasso Regression Implementation
