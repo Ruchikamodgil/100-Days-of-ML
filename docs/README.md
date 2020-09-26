@@ -68,3 +68,5 @@
       <h4>->Ridge and Lasso Regression
       <h2>Day14 Learnings:
        <h4>->Ridge and Lasso Regression Implementation
+     <h2>Day15 Learnings:
+      <h4>->Decision Trees
