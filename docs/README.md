@@ -73,4 +73,6 @@
      <h2>Day16 Learnings:
       <h4>->Decision Tree Implementation
      <h2>Day17 Learnings:
-      <h4>->Random Forest
+      <h4>->Ensemble Methods<br>
+       ->Bagging<br>
+       |-->Random Forest
