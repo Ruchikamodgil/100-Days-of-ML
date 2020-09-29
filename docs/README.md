@@ -72,3 +72,5 @@
       <h4>->Decision Trees
      <h2>Day16 Learnings:
       <h4>->Decision Tree Implementation
+     <h2>Day17 Learnings:
+      <h4>->Random Forest
