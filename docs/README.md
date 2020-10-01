@@ -76,3 +76,8 @@
       <h4>->Ensemble Methods<br>
        ->Bagging<br>
        |<br>-->Random Forest
+      <h2>Day18 Learnings:
+       <h4>->Ensemble Methods<br>
+        ->Boosting<br>
+        |<br>
+        -->Ada-Boost,Gradient Boosting,XGBoost
