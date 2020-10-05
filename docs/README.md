@@ -84,4 +84,4 @@
        <h2>Day19 Learnings:
         <h4>->Random Forest Implementation
        <h2>Day20 Learnings:
-        <h4>->Boosting Algorithms implementation
+        <h4>->Ensemble Techniques implementation
