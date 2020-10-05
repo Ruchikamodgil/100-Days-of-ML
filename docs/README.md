@@ -85,3 +85,4 @@
         <h4>->Random Forest Implementation
        <h2>Day20 Learnings:
         <h4>->Ensemble Methods Implementation
+         <h4>Participated in kaggle competition for 1st time https://www.kaggle.com/ruchikamodgil 
