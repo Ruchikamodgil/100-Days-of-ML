@@ -88,3 +88,5 @@
          <h4>Participated in kaggle competition for 1st time https://www.kaggle.com/ruchikamodgil 
        <h2>Day21 Learnings:
         <h4>->Support Vector Machine
+        <h2>Day22 Learnings:
+         <h4>->SVM Implementation
