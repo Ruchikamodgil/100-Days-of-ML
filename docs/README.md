@@ -90,3 +90,5 @@
         <h4>->Support Vector Machine
         <h2>Day22 Learnings:
          <h4>-> [SVM Implementation](https://github.com/Ruchikamodgil/Support-Vector-Machine-Implementation)
+        <h2>Day23 Learnings:
+         <h4>->K-Nearest Neighbour
