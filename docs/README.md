@@ -94,3 +94,6 @@
          <h4>->K-Nearest Neighbour
         <h2>Day24 Learnings:
          <h4>->KNN Implementation
+        <h2>Day25 Learnings:
+         <h4>->Bayesian Learning
+          <h4>-->Bayes Optimal Classifier,Gibb's Classifier,Naive Bayes Classifier,Gaussian Naive Bayes
