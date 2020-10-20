@@ -97,3 +97,11 @@
         <h2>Day25 Learnings:
          <h4>->Bayesian Learning
           <h4>-->Bayes Optimal Classifier,Gibb's Classifier,Naive Bayes Classifier,Gaussian Naive Bayes
+         <h2>Day26 Learnings:
+          <h4>->Clustering<br>
+           |<br>
+           -->K-Means Algorithm
+          <h2>Day27 Learnings:
+           <h4>->Hierarchical Cluestering(Agglomerative)
+           <h2>Day28 Learnings:
+            <h4>->DBSCAN(Density Based Spatial Clustering of Applications with Noise)
