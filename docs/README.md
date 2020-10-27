@@ -108,4 +108,11 @@
            <h2>Day29 and Day30 Learnings:
             <h4>->Implementation of Clustering Algorithms in Python<br>
              https://github.com/Ruchikamodgil/Clustering-Algorithms
+           <h2>Day31 and Day32 Learnings:
+            <h4>Dimensionality Reduction Techniques<br>
+             ->Feature Selection<br>
+             ->Feature Extraction
+            <h2>Day33 Learnings:
+             <h4>->Implementation of PCA on iris dataset using Python<br>
+              (https://www.github.com/Ruchikamodgil/Principal-Component-Analysis)
              
