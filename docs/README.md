@@ -85,11 +85,15 @@
         <h4>->Random Forest Implementation
        <h2>Day20 Learnings:
         <h4>->Ensemble Methods Implementation
-         <h4> Participated in kaggle competition for 1st time [https://www.kaggle.com/ruchikamodgil] 
+         <h4> Participated in kaggle competition for 1st time 
+          
+[Kaggle Link](https://www.kaggle.com/ruchikamodgil)
        <h2>Day21 Learnings:
         <h4>->Support Vector Machine
         <h2>Day22 Learnings:
-         <h4>-> [SVM Implementation](https://github.com/Ruchikamodgil/Support-Vector-Machine-Implementation)
+      
+          
+ [SVM Implementation](https://github.com/Ruchikamodgil/Support-Vector-Machine-Implementation)
         <h2>Day23 Learnings:
          <h4>->K-Nearest Neighbour
         <h2>Day24 Learnings:
@@ -105,14 +109,16 @@
            <h4>->Hierarchical Cluestering(Agglomerative)
            <h2>Day28 Learnings:
             <h4>->DBSCAN(Density Based Spatial Clustering of Applications with Noise)
-           <h2>Day29 and Day30 Learnings:
-            <h4>->Implementation of Clustering Algorithms in Python<br>
-             https://github.com/Ruchikamodgil/Clustering-Algorithms
+             <h2>Day29 and Day30 Learnings:</h2>
+            <h4>->Implementation of Clustering Algorithms in Python<br></h4>
+
+[Clustering Algorithms](https://www.github.com/Ruchikamodgil/Clustering-Algorithms)
            <h2>Day31 and Day32 Learnings:
             <h4>Dimensionality Reduction Techniques<br>
              ->Feature Selection<br>
              ->Feature Extraction
             <h2>Day33 Learnings:
-             <h4>->Implementation of PCA on iris dataset using Python<br>
-              (https://www.github.com/Ruchikamodgil/Principal-Component-Analysis)
+             <h4>->Implementation of PCA on iris dataset using Python<br></h4>           
+       
+ [Principal Component Analysis](https://www.github.com/Ruchikamodgil/Principal-Component-Analysis)
              
