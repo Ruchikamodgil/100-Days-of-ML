@@ -125,4 +125,6 @@
  <h4>-> Numpy and Pandas Revision
   
  [Link](https://github.com/Ruchikamodgil/Basic-Python-Libraries)
+ <h2>Day36 Learnings:
+ <h4>->Revision of previous Learnings
              
