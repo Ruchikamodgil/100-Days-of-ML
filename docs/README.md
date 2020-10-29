@@ -121,4 +121,8 @@
              <h4>->Implementation of PCA on iris dataset using Python<br></h4>           
        
  [Principal Component Analysis](https://www.github.com/Ruchikamodgil/Principal-Component-Analysis)
+ <h2>Day34 and Day35 Learnings:
+ <h4>-> Numpy and Pandas Revision
+  
+ [Link](https://github.com/Ruchikamodgil/Basic-Python-Libraries)
              
