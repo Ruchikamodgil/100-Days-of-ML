@@ -128,6 +128,6 @@
  <h2>Day36 Learnings:
  <h4>->Revision of previous Learnings
  <h2>Day 37 and Day38 Learnings:
-  <h4>->Started with GeoPandas
+  <h4>->Started with Maps
    
              
