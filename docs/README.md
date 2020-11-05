@@ -127,11 +127,21 @@
  [Link](https://github.com/Ruchikamodgil/Basic-Python-Libraries)
  <h2>Day36 Learnings:
  <h4>->Revision of previous Learnings
- <h2>Day 37 and Day38 Learnings:
+ <h2>Day37 and Day38 Learnings:
   <h4>->Started with Maps
   <h4> GeoSpatial Analysis
    
    
  [Link](https://www.kaggle.com/ruchikamodgil/starting-with-maps)
-   
+ 
+ <h2> Day39 Learnings:
+ <h4>-> Getting Started with NLP
+  
+  <h2> Day40 and Day41 Learnings:
+ <h4> Natural Language Processing
+  <h4>-> Text Preprocessing <br>
+   | 
+   <h4> -->Tokenization,Stopwords,Stemming,Lemmatization,N-Grams,Bag of Words,TF-IDF (implemenatation and intution)
+    
+ [Link](https://github.com/Ruchikamodgil/NLP-Natural-Language-Processing/blob/main/Text%20Preprocessing.ipynb)
              
