@@ -144,4 +144,19 @@
    <h4> -->Tokenization,Stopwords,Stemming,Lemmatization,N-Grams,Bag of Words,TF-IDF (implemenatation and intution)
     
  [Link](https://github.com/Ruchikamodgil/NLP-Natural-Language-Processing/blob/main/Text%20Preprocessing.ipynb)
+ 
+<h2> Day42 Learnings:
+ <h4>-> Making Email Spam Classfier,Model which classifies the message as spam and non spam using Naive Bayes Classifier and using NLP Data Preprocessing to convert the dataset into suitable format.
+ 
+[Link](https://github.com/Ruchikamodgil/NLP-Natural-Language-Processing/blob/main/Email%20Spam%20Classifier.ipynb)
+<h2>Day43 Learnings:
+<h3> Started with Deep Learning
+ <h4>-> Started with Neural Networks
+ <h2>Day44 Learnings:
+  <h4>-> MultiLayer Perceptron
+  <h2>Day45 Learnings:
+   <h4>->Back Propagation Learning
+  <h2>Day46 Learnings:
+   <h4>-> Gradient Descent Variations
+   
              
