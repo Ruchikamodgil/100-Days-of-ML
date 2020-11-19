@@ -158,5 +158,10 @@
    <h4>->Back Propagation Learning
   <h2>Day46 Learnings:
    <h4>-> Gradient Descent Variations
+  <h2>Day47 Learnings:
+   <h4>->Started implementing NN with tensorFlow
+  <h2>Day48 Learnings:
+   <h4>->Fashion MNIST - Image Classification 
+   
    
              
