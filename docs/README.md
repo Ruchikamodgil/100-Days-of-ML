@@ -139,8 +139,7 @@
   <h2> Day40 and Day41 Learnings:
  <h4> Natural Language Processing
   <h4>-> Text Preprocessing <br>
-   | 
-   <h4> -->Tokenization,Stopwords,Stemming,Lemmatization,N-Grams,Bag of Words,TF-IDF (implemenatation and intution)
+   <h4>| -->Tokenization,Stopwords,Stemming,Lemmatization,N-Grams,Bag of Words,TF-IDF (implemenatation and intution)
     
  [Link](https://github.com/Ruchikamodgil/NLP-Natural-Language-Processing/blob/main/Text%20Preprocessing.ipynb)
  
