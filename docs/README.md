@@ -18,24 +18,24 @@
  -> Need of Data Preprocessing<br>
 <h2>Day4 Learnings:
  <h4>->Handling Missing Values<br>
-       |<br>
+       |
         --->Drop Missing Values<br>
-       |<br>
+       |
         --->Filling Missing Values<br>
-       |<br>
+       |
         --->Prediction of Missing Values<br>
  <h4>->Handling Categorical Values<br>
-        |<br>
+        |
          --->One-Hot Encoding<br>
-        |<br>
+        |
          --->Label Encoding<br>
  <h2>Day5 Learning:
   <h4>->Dealing with outliers<br>
-       |<br>
+       |
         --->Detection Methods(Box Plot,Scatter Plot,IQR Score)
   <h4>->Analysis for feature Importance
   <h4>->Feature Scaling<br>
-       |<br>
+       |
         --->Z-score Normalisation,Min-Max Normalisation,Log Transformation<br>
  <h2>Day6 Learnings:
   <h4>Started Statistics <br>
@@ -75,11 +75,11 @@
      <h2>Day17 Learnings:
       <h4>->Ensemble Methods<br>
        ->Bagging<br>
-       |<br>-->Random Forest
+       |-->Random Forest
       <h2>Day18 Learnings:
        <h4>->Ensemble Methods<br>
         ->Boosting<br>
-        |<br>
+        |
         -->Ada-Boost,Gradient Boosting,XGBoost
        <h2>Day19 Learnings:
         <h4>->Random Forest Implementation
@@ -103,8 +103,7 @@
           <h4>-->Bayes Optimal Classifier,Gibb's Classifier,Naive Bayes Classifier,Gaussian Naive Bayes
          <h2>Day26 Learnings:
           <h4>->Clustering<br>
-           |<br>
-           -->K-Means Algorithm
+           |-->K-Means Algorithm
           <h2>Day27 Learnings:
            <h4>->Hierarchical Cluestering(Agglomerative)
            <h2>Day28 Learnings:
@@ -164,6 +163,7 @@
    <h4>->Fashion MNIST - Image Classification 
   <h2>Day49 Learnings:
    <h4>->Email Spam Classifier using Neural Networks
+ <br>
     
 
  [Neural Networks](https://github.com/Ruchikamodgil/Neural-Networks)
