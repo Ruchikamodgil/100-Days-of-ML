@@ -166,3 +166,15 @@
     
 
  [Neural Networks](https://github.com/Ruchikamodgil/Neural-Networks)
+ <h3>Started with TensorFlow Input Pipelines
+ <h2>Day50 Learnings:
+  <h4>->Reading Input Data
+ <h2>Day51 Learnings:
+  <h4>->Reading Input Data
+ <h2>Day52 Learnings:
+  <h4>->Batching Dataset Elements
+ <h2>Day53 and Day54 Learnings:
+  <h4>->Shuffling and Preprocessing Data(Time Series Windowing)
+ <h2>Day55 Learnings :
+  <h4>->HyperParameter Tuning-Improving Spam Classifier Performance
+  
