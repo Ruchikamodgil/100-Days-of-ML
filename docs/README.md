@@ -169,12 +169,27 @@
  <h3>Started with TensorFlow Input Pipelines
  <h2>Day50 Learnings:
   <h4>->Reading Input Data
+   
+ [Link](https://github.com/Ruchikamodgil/Neural-Networks/blob/main/Reading%20Input%20data-1.ipynb)
  <h2>Day51 Learnings:
   <h4>->Reading Input Data
+   
+   
+ [Link](https://github.com/Ruchikamodgil/Neural-Networks/blob/main/Reading_Input_Data-2.ipynb)
  <h2>Day52 Learnings:
   <h4>->Batching Dataset Elements
+   
+ [Link](https://github.com/Ruchikamodgil/Neural-Networks/blob/main/Batching.ipynb)
  <h2>Day53 and Day54 Learnings:
   <h4>->Shuffling and Preprocessing Data(Time Series Windowing)
- <h2>Day55 Learnings :
-  <h4>->HyperParameter Tuning-Improving Spam Classifier Performance
+   
+ [Link](https://github.com/Ruchikamodgil/Neural-Networks/blob/main/Shuffling_And_TimeSeries_Windowing.ipynb)
+ <h2>Day55 Learnings:
+  <h4>->keras Tuner - HyperParameter Tuning-Improving Spam Classifier Performance
+   
+ [Link](https://github.com/Ruchikamodgil/Neural-Networks/blob/main/HyperParameter%20tuning%20on%20Email%20Spam%20Classifier.ipynb)
+ <h2>Day56 Learnings:
+  Started with understanding RNN
+  
+  [Link](https://github.com/Ruchikamodgil/Neural-Networks/blob/main/Text_Generation_with_RNN.ipynb)
   
