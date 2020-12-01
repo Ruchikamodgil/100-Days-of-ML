@@ -189,7 +189,7 @@
    
  [Link](https://github.com/Ruchikamodgil/Neural-Networks/blob/main/HyperParameter%20tuning%20on%20Email%20Spam%20Classifier.ipynb)
  <h2>Day56 Learnings:
-  Started with understanding RNN
+  <h4>->Started with understanding RNN
   
   [Link](https://github.com/Ruchikamodgil/Neural-Networks/blob/main/Text_Generation_with_RNN.ipynb)
   
