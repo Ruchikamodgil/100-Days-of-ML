@@ -193,3 +193,19 @@
   
   [Link](https://github.com/Ruchikamodgil/Neural-Networks/blob/main/Text_Generation_with_RNN.ipynb)
   
+  <h2>Day57 Learnings:
+ <h4>->Convolution Neural Network (CNN)
+  
+  <h2>Day58 Learnings:
+ <h4>->Implementation of CNN
+  
+  <h2>Day59 Learnings:
+ <h4>Learning some Popular CNN Models
+<h4>->LeNet
+ <h2>Day60 Learnings:
+  <h4>->AlexNet,VGG16
+ <h2>Day61 Learnings:
+  <h4>->Transfer Learning
+  <h2>Day62 Learnings:
+  <h4>-Transfer Learning
+ 
