@@ -199,6 +199,8 @@
   <h2>Day58 Learnings:
  <h4>->Implementation of CNN
   
+  [Link](https://github.com/Ruchikamodgil/Neural-Networks/blob/main/CNN_Implementation.ipynb)
+  
   <h2>Day59 Learnings:
  <h4>Learning some Popular CNN Models
 <h4>->LeNet
@@ -209,6 +211,8 @@
   <h2>Day62 and Day63 Learnings:
   <h4>Transfer Learning
  <h4>->Cat vs Dog Classification using Transfer Learning
+  
+ [Link](https://github.com/Ruchikamodgil/Neural-Networks/blob/main/Cat_vs_Dog_Classification_using_Transfer_Learning.ipynb)
  <h2>Day64 and Day65 Learnings:
   <h4>->Working on image Segmentation<br>
    (will update the notebook here after completion)
