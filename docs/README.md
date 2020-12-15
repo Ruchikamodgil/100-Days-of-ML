@@ -206,6 +206,12 @@
   <h4>->AlexNet,VGG16
  <h2>Day61 Learnings:
   <h4>->Transfer Learning
-  <h2>Day62 Learnings:
-  <h4>->Transfer Learning
+  <h2>Day62 and Day63 Learnings:
+  <h4>Transfer Learning
+ <h4>->Cat vs Dog Classification using Transfer Learning
+ <h2>Day64 and Day65 Learnings:
+  <h4>->Working on image Segmentation<br>
+   (will update the notebook here after completion)
+   
+  
  
