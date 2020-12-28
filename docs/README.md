@@ -217,5 +217,17 @@
   <h4>->Working on image Segmentation<br>
    (will update the notebook here after completion)
    
+   <h2>Day66 Learnings:
+ <h4>->Working on image segmentation
+  <h2>Day67 and Day68 Learnings:
+   <h4>->Recurrent Neural Network,Exploding Gradient Descent , Vanishing Gradient Descent
+   <h2>Day69 Learnings:
+    <h4>->Long Short Term Memory
+     <h2>Day70 and Day71 Learnings:
+      <h4>->Gold Price Prediction using LSTM
+      <h2>Day72, Day73, Day74 , Day75 Learnings:
+       <h4>->Revised previous Learnings
+      <h2>Day76 Learnings:
+       <h4>->Started working on COVID related project
   
  
