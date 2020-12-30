@@ -227,7 +227,7 @@
       <h4>->Gold Price Prediction using LSTM
       <h2>Day72, Day73, Day74 , Day75 Learnings:
        <h4>->Revised previous Learnings
-      <h2>Day76 Learnings:
+      <h2>Day76 and Day77 Learnings:
        <h4>->Started working on COVID related project
   
  
