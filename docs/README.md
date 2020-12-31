@@ -225,9 +225,13 @@
     <h4>->Long Short Term Memory
      <h2>Day70 and Day71 Learnings:
       <h4>->Gold Price Prediction using LSTM
+       
+       
+       
+   [Link](https://github.com/Ruchikamodgil/Neural-Networks/tree/main/time%20series%20forecasting%20using%20LSTM)
       <h2>Day72, Day73, Day74 , Day75 Learnings:
        <h4>->Revised previous Learnings
-      <h2>Day76 and Day77 Learnings:
+      <h2>Day76, Day77, Day78 Learnings:
        <h4>->Started working on COVID related project
   
  
