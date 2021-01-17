@@ -231,7 +231,8 @@
    [Link](https://github.com/Ruchikamodgil/Neural-Networks/tree/main/time%20series%20forecasting%20using%20LSTM)
       <h2>Day72, Day73, Day74 , Day75 Learnings:
        <h4>->Revised previous Learnings
-      <h2>Day76, Day77, Day78 Learnings:
+      <h2>Day76, Day77, Day78 ,Day79 Learnings:
        <h4>->Started working on COVID related project
-  
+  <h2>Day80, Day81, Day82, Day83 Learnings:
+   <h4>->Working on a DL project (update soon)
  
