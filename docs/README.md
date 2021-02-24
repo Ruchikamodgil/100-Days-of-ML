@@ -232,7 +232,36 @@
       <h2>Day72, Day73, Day74 , Day75 Learnings:
        <h4>->Revised previous Learnings
       <h2>Day76, Day77, Day78 ,Day79 Learnings:
-       <h4>->Started working on COVID related project
+       <h4>->Started working on COVID related project (Our project got selected in semi-finals of EY Techathon)
   <h2>Day80, Day81, Day82, Day83 Learnings:
-   <h4>->Working on a DL project (update soon)
+   <h4>->Semanitic Segmentation with U-net,U-net Architecture(its intution and working)
+    <h4>-->Butterfly Segmentation using U-net
+     
+     
+  [Link](https://github.com/Ruchikamodgil/Image-Segmentation-using-U-Net/blob/main/ButterFly_Segmentation.ipynb)
+  
+  <h2>Day84, Day85, Day86 Learnings:
+ <h4>->Architecture of different object detection Techniques - RCNN,Fast-RCNN,Faster-RCNN
+  
+  <h2>Day87, Day88, Day89, Day90 Learnings:
+ <h4>-> Time Series Forecasting 
+  <h4>-->Autoregressive Integrated Moving Average (ARIMA)
+<h4>-->Seasonal Autoregressive Integrated Moving-Average (SARIMA)
+  
+  [Link](https://github.com/Ruchikamodgil/Time-Series-Forecasting-using-ARIMA-SARIMA)
+  
+  <h2>Day91, Day92 Learnings:
+ <h4>->Word2vec 
+  -->Why Word2vec?
+  -->Problems with Bag of words,TF-IDF
+ 
+  <h2>Day93, Day94, Day95 Learnings:
+ <h4>->MaskRCNN, Detection and Segmentation with MaskRCNN
+  
+  <h2>Day96, Day97, Day98, Day99, Day100 Learnings:
+ <h4>->Started Working on "Know-your-herb" project
+  <h4> Done with training model on 3 different kind of herbs, will soon make the repository public after deploying my model and after developing an application which can help people to detect more exotic kitchen ingredients and herbs. 
+   
+   
+<h2>This was my 100 days of Machine Learning Journey, it is not over yet, it has just begun.
  
