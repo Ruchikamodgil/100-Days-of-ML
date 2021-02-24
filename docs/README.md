@@ -252,8 +252,8 @@
   
   <h2>Day91, Day92 Learnings:
  <h4>->Word2vec 
-  -->Why Word2vec?
-  -->Problems with Bag of words,TF-IDF
+  <h4>-->Why Word2vec?
+  <h4>-->Problems with Bag of words,TF-IDF
  
   <h2>Day93, Day94, Day95 Learnings:
  <h4>->MaskRCNN, Detection and Segmentation with MaskRCNN
