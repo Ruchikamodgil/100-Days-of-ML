@@ -11,226 +11,71 @@
 | Day4  | -> Handling Missing Values       <h6> --->Drop Missing Values<br>   \--->Filling Missing Values<br>      \--->Prediction of Missing Values<br></h6> ->Handling Categorical Values<br>  <h6>--->One-Hot Encoding<br>         \--->Label Encoding<br>  |
 | Day5 | ->Dealing with outliers<br> <h6>--->Detection Methods(Box Plot,Scatter Plot,IQR Score) </h6>->Analysis for feature Importance <br>->Feature Scaling<br> <h6> --->Z-score Normalisation,Min-Max Normalisation,Log Transformation |
 |Day6 |<h4>Started Statistics <br> ->Average,Variance,Std. Deviation,Prob. Dist. Fns<br> ->Binomial Distribution<br> ->Poisson Process |
- <h2>Day7 Learnings:
-  <h4>->Poisson Process<br>
-    ->Law of Large numbers<br>
-    ->Normal Distribution<br>
- <h2>Day8 Learnings:
-  <h4>->Central Limit Theorem<br>
-    ->Bernoulli Distribution<br>
-    ->Hypothesis Testing<br>
- <h2>Day9 Learnings:
-  <h4>->Hypothesis Testing(P-value,One and Two tailed Test,Z and T-statistic,Type I and Type II errors) 
-   <h2>Day10 Learnings:
-  <h4>->Covariance and correlation<br>
-    ->chi-square distribution <br>
-    ->ANOVA/F-statistics<br>
-   <h2>Day11 Learnings:
-    <h4>->Data Visualization on Iris Dataset
-   <h2>Day12 Learnings:
-    <h4>->Logistic Regression<br>
-     ->Implementation of Logistic Regression<br>
-     ->Cross Entropy Loss<br>
-     ->Optimization using Gradient Descent<br>
-     ->Evaluation of Logistic Regression Result
-     <h2>Day13 Learnings:
-      <h4>->Ridge and Lasso Regression
-      <h2>Day14 Learnings:
-       <h4>->Ridge and Lasso Regression Implementation
-     <h2>Day15 Learnings:
-      <h4>->Decision Trees
-     <h2>Day16 Learnings:
-      <h4>->Decision Tree Implementation
-     <h2>Day17 Learnings:
-      <h4>->Ensemble Methods<br>
-       ->Bagging<br>
-       |-->Random Forest
-      <h2>Day18 Learnings:
-       <h4>->Ensemble Methods<br>
-        ->Boosting<br>
-        |
-        -->Ada-Boost,Gradient Boosting,XGBoost
-       <h2>Day19 Learnings:
-        <h4>->Random Forest Implementation
-       <h2>Day20 Learnings:
-        <h4>->Ensemble Methods Implementation
-         <h4> Participated in kaggle competition for 1st time 
-          
-[Kaggle Link](https://www.kaggle.com/ruchikamodgil)
-       <h2>Day21 Learnings:
-        <h4>->Support Vector Machine
-        <h2>Day22 Learnings:
-      
-          
- [SVM Implementation](https://github.com/Ruchikamodgil/Support-Vector-Machine-Implementation)
-        <h2>Day23 Learnings:
-         <h4>->K-Nearest Neighbour
-        <h2>Day24 Learnings:
-         <h4>->KNN Implementation
-        <h2>Day25 Learnings:
-         <h4>->Bayesian Learning
-          <h4>-->Bayes Optimal Classifier,Gibb's Classifier,Naive Bayes Classifier,Gaussian Naive Bayes
-         <h2>Day26 Learnings:
-          <h4>->Clustering<br>
-           |-->K-Means Algorithm
-          <h2>Day27 Learnings:
-           <h4>->Hierarchical Cluestering(Agglomerative)
-           <h2>Day28 Learnings:
-            <h4>->DBSCAN(Density Based Spatial Clustering of Applications with Noise)
-             <h2>Day29 and Day30 Learnings:</h2>
-            <h4>->Implementation of Clustering Algorithms in Python<br></h4>
-
-[Clustering Algorithms](https://www.github.com/Ruchikamodgil/Clustering-Algorithms)
-           <h2>Day31 and Day32 Learnings:
-            <h4>Dimensionality Reduction Techniques<br>
-             ->Feature Selection<br>
-             ->Feature Extraction
-            <h2>Day33 Learnings:
-             <h4>->Implementation of PCA on iris dataset using Python<br></h4>           
-       
- [Principal Component Analysis](https://www.github.com/Ruchikamodgil/Principal-Component-Analysis)
- <h2>Day34 and Day35 Learnings:
- <h4>-> Numpy and Pandas Revision
-  
- [Link](https://github.com/Ruchikamodgil/Basic-Python-Libraries)
- <h2>Day36 Learnings:
- <h4>->Revision of previous Learnings
- <h2>Day37 and Day38 Learnings:
-  <h4>->Started with Maps
-  <h4> GeoSpatial Analysis
+| Day7 | ->Poisson Process<br> ->Law of Large numbers<br> ->Normal Distribution |
+| Day8 | ->Central Limit Theorem<br> ->Bernoulli Distribution<br>  ->Hypothesis Testing |
+| Day9 | ->Hypothesis Testing(P-value,One and Two tailed Test,Z and T-statistic,Type I and Type II errors) |
+| Day10 |->Covariance and correlation<br> ->chi-square distribution <br> ->ANOVA/F-statistics |
+|Day11 | ->Data Visualization on Iris Dataset |
+| Day12 | ->Logistic Regression<br> ->Implementation of Logistic Regression<br> ->Cross Entropy Loss<br> ->Optimization using Gradient Descent<br> ->Evaluation of Logistic Regression Result |
+| Day13 | ->Ridge and Lasso Regression  |
+| Day14 | ->Ridge and Lasso Regression Implementation |
+| Day15 | ->Decision Trees  |
+| Day16 | ->Decision Tree Implementation  |
+| Day17 | ->Ensemble Methods<br> ->Bagging<br> <h6> --->Random Forest |
+| Day18 | ->Ensemble Methods<br> ->Boosting<h6> --->Ada-Boost,Gradient Boosting,XGBoost
+| Day19 | ->Random Forest Implementation  |
+| Day20 | ->Ensemble Methods Implementation <br> Participated in kaggle competition for 1st time   [Kaggle Link](https://www.kaggle.com/ruchikamodgil)  |
+| Day21 | ->Support Vector Machine |
+| Day22 |   [SVM Implementation](https://github.com/Ruchikamodgil/Support-Vector-Machine-Implementation)   |
+| Day23 | ->K-Nearest Neighbour|
+|Day24 |->KNN Implementation|
+| Day25 | ->Bayesian Learning <h6> --->Bayes Optimal Classifier,Gibb's Classifier,Naive Bayes Classifier,Gaussian Naive Bayes |
+| Day26 | ->Clustering <h6> --->K-Means Algorithm |
+| Day27 | ->Hierarchical Cluestering(Agglomerative) |
+| Day28 | ->DBSCAN(Density Based Spatial Clustering of Applications with Noise) |
+| Day29 and Day30   | ->Implementation of Clustering Algorithms in Python<br> [Clustering Algorithms](https://www.github.com/Ruchikamodgil/Clustering-Algorithms)  |
+| Day31 and Day32 | Dimensionality Reduction Techniques<br> ->Feature Selection<br>  ->Feature Extraction  |
+| Day33 | ->Implementation of PCA on iris dataset using Python<br>  [Principal Component Analysis](https://www.github.com/Ruchikamodgil/Principal-Component-Analysis) |
+| Day34 and Day35 | -> Numpy and Pandas Revision <br> [Link](https://github.com/Ruchikamodgil/Basic-Python-Libraries) |
+| Day36 | ->Revision of previous Learnings |
+| Day37 and Day38 | ->Started with Maps <br> GeoSpatial Analysis  [Link](https://www.kaggle.com/ruchikamodgil/starting-with-maps) |
+| Day39 | -> Getting Started with NLP |
+| Day40 and Day41 | Natural Language Processing <br> -> Text Preprocessing  <h6>--->Tokenization,Stopwords,Stemming,Lemmatization,N-Grams,Bag of Words,TF-IDF (implemenatation and intution)  [Link](https://github.com/Ruchikamodgil/NLP-Natural-Language-Processing/blob/main/Text%20Preprocessing.ipynb) | 
+| Day42 | -> Making Email Spam Classfier,Model which classifies the message as spam and non spam using Naive Bayes Classifier and using NLP Data Preprocessing to convert the dataset into suitable format. [Link](https://github.com/Ruchikamodgil/NLP-Natural-Language-Processing/blob/main/Email%20Spam%20Classifier.ipynb) |
+| Day43 | Started with Deep Learning <br>-> Started with Neural Networks |
+| Day44  | -> MultiLayer Perceptron |
+| Day45 | ->Back Propagation Learning |
+| Day46 | -> Gradient Descent Variations |
+| Day47 | ->Started implementing NN with tensorFlow |
+| Day48 | ->Fashion MNIST - Image Classification | 
+| Day49 | ->Email Spam Classifier using Neural Networks <br> [Neural Networks](https://github.com/Ruchikamodgil/Neural-Networks) <br>Started with TensorFlow Input Pipelines |
+| Day50 | ->Reading Input Data  [Link](https://github.com/Ruchikamodgil/Neural-Networks/blob/main/Reading%20Input%20data-1.ipynb) |
+| Day51 | ->Reading Input Data  [Link](https://github.com/Ruchikamodgil/Neural-Networks/blob/main/Reading_Input_Data-2.ipynb)  |
+| Day52 | ->Batching Dataset Elements   [Link](https://github.com/Ruchikamodgil/Neural-Networks/blob/main/Batching.ipynb)  |
+| Day53 and Day54 |  ->Shuffling and Preprocessing Data(Time Series Windowing)  [Link](https://github.com/Ruchikamodgil/Neural-Networks/blob/main/Shuffling_And_TimeSeries_Windowing.ipynb)  |
+| Day55 | ->keras Tuner - HyperParameter Tuning-Improving Spam Classifier Performance   [Link](https://github.com/Ruchikamodgil/Neural-Networks/blob/main/HyperParameter%20tuning%20on%20Email%20Spam%20Classifier.ipynb) |
+| Day56 | ->Started with understanding RNN  [Link](https://github.com/Ruchikamodgil/Neural-Networks/blob/main/Text_Generation_with_RNN.ipynb) |
+| Day57 | ->Convolution Neural Network (CNN) |
+| Day58 | ->Implementation of CNN   [Link](https://github.com/Ruchikamodgil/Neural-Networks/blob/main/CNN_Implementation.ipynb) |
+| Day59 | Learning some Popular CNN Models <br> ->LeNet |
+| Day60 | ->AlexNet,VGG16 |
+| Day61 | ->Transfer Learning |
+| Day62 and Day63 | Transfer Learning <br>->Cat vs Dog Classification using Transfer Learning  [Link](https://github.com/Ruchikamodgil/Neural-Networks/blob/main/Cat_vs_Dog_Classification_using_Transfer_Learning.ipynb) |
+| Day64 and Day65 | ->Working on image Segmentation |
+| Day66 | ->Working on image segmentation |
+| Day67 and Day68 | ->Recurrent Neural Network,Exploding Gradient Descent , Vanishing Gradient Descent  |
+| Day69 | ->Long Short Term Memory  |
+| Day70 and Day71 | ->Gold Price Prediction using LSTM  [Link](https://github.com/Ruchikamodgil/Neural-Networks/tree/main/time%20series%20forecasting%20using%20LSTM) |
+| Day72, Day73, Day74 , Day75 | ->Revised previous Learnings |
+| Day76, Day77, Day78 ,Day79 | ->Started working on COVID related project (Our project got selected in semi-finals of EY Techathon) |
+| Day80, Day81, Day82, Day83 | ->Semanitic Segmentation with U-net,U-net Architecture(its intution and working) <h6> --->Butterfly Segmentation using U-net [Link](https://github.com/Ruchikamodgil/Image-Segmentation-using-U-Net/blob/main/ButterFly_Segmentation.ipynb) |
+| Day84, Day85, Day86 | ->Architecture of different object detection Techniques - RCNN,Fast-RCNN,Faster-RCNN  |
+| Day87, Day88, Day89, Day90 | -> Time Series Forecasting  <h6> --->Autoregressive Integrated Moving Average (ARIMA) <br> --->Seasonal Autoregressive Integrated Moving-Average (SARIMA)  [Link](https://github.com/Ruchikamodgil/Time-Series-Forecasting-using-ARIMA-SARIMA)  |
+| Day91, Day92 | ->Word2vec  <h6> --->Why Word2vec? <h6> --->Problems with Bag of words,TF-IDF |
+| Day93, Day94, Day95 | ->MaskRCNN, Detection and Segmentation with MaskRCNN  |  
+| Day96, Day97, Day98, Day99, Day100 | ->Developed on "Know-your-herb" project <h6> Done with training model on 3 different kind of herbs, will soon make the repository public after deploying my model and after developing an application which can help people to detect more exotic kitchen ingredients and herbs. | 
    
    
- [Link](https://www.kaggle.com/ruchikamodgil/starting-with-maps)
+<h2>This was my 100 days of Machine Learning Journey. 
  
- <h2> Day39 Learnings:
- <h4>-> Getting Started with NLP
-  
-  <h2> Day40 and Day41 Learnings:
- <h4> Natural Language Processing
-  <h4>-> Text Preprocessing <br>
-   <h4>| -->Tokenization,Stopwords,Stemming,Lemmatization,N-Grams,Bag of Words,TF-IDF (implemenatation and intution)
-    
- [Link](https://github.com/Ruchikamodgil/NLP-Natural-Language-Processing/blob/main/Text%20Preprocessing.ipynb)
- 
-<h2> Day42 Learnings:
- <h4>-> Making Email Spam Classfier,Model which classifies the message as spam and non spam using Naive Bayes Classifier and using NLP Data Preprocessing to convert the dataset into suitable format.
- 
-[Link](https://github.com/Ruchikamodgil/NLP-Natural-Language-Processing/blob/main/Email%20Spam%20Classifier.ipynb)
-<h2>Day43 Learnings:
-<h3> Started with Deep Learning
- <h4>-> Started with Neural Networks
- <h2>Day44 Learnings:
-  <h4>-> MultiLayer Perceptron
-  <h2>Day45 Learnings:
-   <h4>->Back Propagation Learning
-  <h2>Day46 Learnings:
-   <h4>-> Gradient Descent Variations
-  <h2>Day47 Learnings:
-   <h4>->Started implementing NN with tensorFlow
-  <h2>Day48 Learnings:
-   <h4>->Fashion MNIST - Image Classification 
-  <h2>Day49 Learnings:
-   <h4>->Email Spam Classifier using Neural Networks
- <br>
-    
-
- [Neural Networks](https://github.com/Ruchikamodgil/Neural-Networks)
- <h3>Started with TensorFlow Input Pipelines
- <h2>Day50 Learnings:
-  <h4>->Reading Input Data
-   
- [Link](https://github.com/Ruchikamodgil/Neural-Networks/blob/main/Reading%20Input%20data-1.ipynb)
- <h2>Day51 Learnings:
-  <h4>->Reading Input Data
-   
-   
- [Link](https://github.com/Ruchikamodgil/Neural-Networks/blob/main/Reading_Input_Data-2.ipynb)
- <h2>Day52 Learnings:
-  <h4>->Batching Dataset Elements
-   
- [Link](https://github.com/Ruchikamodgil/Neural-Networks/blob/main/Batching.ipynb)
- <h2>Day53 and Day54 Learnings:
-  <h4>->Shuffling and Preprocessing Data(Time Series Windowing)
-   
- [Link](https://github.com/Ruchikamodgil/Neural-Networks/blob/main/Shuffling_And_TimeSeries_Windowing.ipynb)
- <h2>Day55 Learnings:
-  <h4>->keras Tuner - HyperParameter Tuning-Improving Spam Classifier Performance
-   
- [Link](https://github.com/Ruchikamodgil/Neural-Networks/blob/main/HyperParameter%20tuning%20on%20Email%20Spam%20Classifier.ipynb)
- <h2>Day56 Learnings:
-  <h4>->Started with understanding RNN
-  
-  [Link](https://github.com/Ruchikamodgil/Neural-Networks/blob/main/Text_Generation_with_RNN.ipynb)
-  
-  <h2>Day57 Learnings:
- <h4>->Convolution Neural Network (CNN)
-  
-  <h2>Day58 Learnings:
- <h4>->Implementation of CNN
-  
-  [Link](https://github.com/Ruchikamodgil/Neural-Networks/blob/main/CNN_Implementation.ipynb)
-  
-  <h2>Day59 Learnings:
- <h4>Learning some Popular CNN Models
-<h4>->LeNet
- <h2>Day60 Learnings:
-  <h4>->AlexNet,VGG16
- <h2>Day61 Learnings:
-  <h4>->Transfer Learning
-  <h2>Day62 and Day63 Learnings:
-  <h4>Transfer Learning
- <h4>->Cat vs Dog Classification using Transfer Learning
-  
- [Link](https://github.com/Ruchikamodgil/Neural-Networks/blob/main/Cat_vs_Dog_Classification_using_Transfer_Learning.ipynb)
- <h2>Day64 and Day65 Learnings:
-  <h4>->Working on image Segmentation<br>
-   (will update the notebook here after completion)
-   
-   <h2>Day66 Learnings:
- <h4>->Working on image segmentation
-  <h2>Day67 and Day68 Learnings:
-   <h4>->Recurrent Neural Network,Exploding Gradient Descent , Vanishing Gradient Descent
-   <h2>Day69 Learnings:
-    <h4>->Long Short Term Memory
-     <h2>Day70 and Day71 Learnings:
-      <h4>->Gold Price Prediction using LSTM
-       
-       
-       
-   [Link](https://github.com/Ruchikamodgil/Neural-Networks/tree/main/time%20series%20forecasting%20using%20LSTM)
-      <h2>Day72, Day73, Day74 , Day75 Learnings:
-       <h4>->Revised previous Learnings
-      <h2>Day76, Day77, Day78 ,Day79 Learnings:
-       <h4>->Started working on COVID related project (Our project got selected in semi-finals of EY Techathon)
-  <h2>Day80, Day81, Day82, Day83 Learnings:
-   <h4>->Semanitic Segmentation with U-net,U-net Architecture(its intution and working)
-    <h4>-->Butterfly Segmentation using U-net
-     
-     
-  [Link](https://github.com/Ruchikamodgil/Image-Segmentation-using-U-Net/blob/main/ButterFly_Segmentation.ipynb)
-  
-  <h2>Day84, Day85, Day86 Learnings:
- <h4>->Architecture of different object detection Techniques - RCNN,Fast-RCNN,Faster-RCNN
-  
-  <h2>Day87, Day88, Day89, Day90 Learnings:
- <h4>-> Time Series Forecasting 
-  <h4>-->Autoregressive Integrated Moving Average (ARIMA)
-<h4>-->Seasonal Autoregressive Integrated Moving-Average (SARIMA)
-  
-  [Link](https://github.com/Ruchikamodgil/Time-Series-Forecasting-using-ARIMA-SARIMA)
-  
-  <h2>Day91, Day92 Learnings:
- <h4>->Word2vec 
-  <h4>-->Why Word2vec?
-  <h4>-->Problems with Bag of words,TF-IDF
- 
-  <h2>Day93, Day94, Day95 Learnings:
- <h4>->MaskRCNN, Detection and Segmentation with MaskRCNN
-  
-  <h2>Day96, Day97, Day98, Day99, Day100 Learnings:
- <h4>->Started Working on "Know-your-herb" project
-  <h4> Done with training model on 3 different kind of herbs, will soon make the repository public after deploying my model and after developing an application which can help people to detect more exotic kitchen ingredients and herbs. 
-   
-   
-<h2>This was my 100 days of Machine Learning Journey, it is not over yet, it has just begun.
  
