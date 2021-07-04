@@ -74,7 +74,9 @@
 | Day91, Day92 | ->Word2vec  <h6> --->Why Word2vec? <h6> --->Problems with Bag of words,TF-IDF |
 | Day93, Day94, Day95 | ->MaskRCNN, Detection and Segmentation with MaskRCNN  |  
 | Day96, Day97, Day98, Day99, Day100 | ->Developed on "Know-your-herb" project <h6> Done with training model on 3 different kind of herbs, will soon make the repository public after deploying my model and after developing an application which can help people to detect more exotic kitchen ingredients and herbs. | 
-   
-   
+
+| Notes |
+| ------ | 
+| [Link to my notes](https://drive.google.com/file/d/1cgumMzVx8CeaRP_loU0FDZ3x4a-qa00L/view) |
 <h2>This was my 100 days of Machine Learning Journey. 
  
